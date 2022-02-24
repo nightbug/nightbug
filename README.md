@@ -14,7 +14,7 @@ Mods I've collaborated on:
 - Gensokyo ([Workshop][gensokyoWorkshop], [Repository][gensokyoRepo])
 - Ruina ([Workshop][ruinaWorkshop], [Repository][ruinaRepo])
 - Spire Arcade ([Workshop][arcadeWorkshop], [Repository][arcadeRepo])
-- Battle Towers ([Workshop][battletowersWorkshop]. [Repository][battletowersRepo])
+- Battle Towers ([Workshop][battletowersWorkshop], [Repository][battletowersRepo])
 - The Warlord ([Repository][warlordRepo])
 - The Renegade ([Repository][renegadeRepo])
 
