@@ -12,8 +12,9 @@
 Mods I've collaborated on:
 
 - Gensokyo ([Workshop][gensokyoWorkshop], [Repository][gensokyoRepo])
-- Ruina ([Workshop][ruinaWorkshop])
+- Ruina ([Workshop][ruinaWorkshop], [Repository][ruinaRepo])
 - Spire Arcade ([Workshop][arcadeWorkshop], [Repository][arcadeRepo])
+- Battle Towers ([Workshop][battletowersWorkshop]. [Repository][battletowersRepo])
 - The Warlord ([Repository][warlordRepo])
 - The Renegade ([Repository][renegadeRepo])
 
@@ -33,6 +34,9 @@ Mods I've made:
 
 [arcadeWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2366400517
 [arcadeRepo]: https://github.com/erasels/MinigamesTheSpire
+
+[battleTowersWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2724117330
+[battleTowersRepo]: https://github.com/erasels/MtSAnniversary-BattleTowers
 
 [warlordRepo]: https://github.com/Cartopol/STS_Community_Warlord_Mod
 [renegadeRepo]: https://github.com/IGHARARI/heavenschildren
@@ -56,3 +60,4 @@ Mods I've made:
 [morshuWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2377131075
 
 [ruinaWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2396661789
+[ruinaRepo]: https://github.com/Darkglade1/Ruina
